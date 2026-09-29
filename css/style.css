@@ -1,0 +1,22 @@
+
+   h1 {
+      color:powderblue;
+      font-size: 23px;
+      font-family: Verdana, sans-serif;
+   }
+   td {
+    background-color: lightgray;
+   }
+   .gauche {
+    background-color: #f1ff71;
+   }
+.annee {
+    font-size: 30px;
+}
+   #menu {
+      color: aquamarine;
+      font-size: 23px;
+      font-weight:bold;
+      
+      
+   }
